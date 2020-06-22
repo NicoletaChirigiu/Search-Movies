@@ -1,0 +1,16 @@
+.Search {
+    text-align: center;
+    }
+
+.Search input {
+    padding: 5px;
+}
+
+.SearchInput {
+    margin:10px;
+    min-width: 70%;
+}
+
+.SearchButton {
+    cursor: pointer;
+}
